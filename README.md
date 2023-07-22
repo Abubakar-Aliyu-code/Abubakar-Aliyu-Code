@@ -8,7 +8,7 @@ I have a solid background in computer engineering and a narrow interest in harne
 
 * 🧠  I'm currently learning Time series and Reinforcement learning
 * 📝  I write on [medium](https://medium.com/@datathon) 
-* 🤝  I'm open to collaborating on Computational social science and Data analytics
+* 🤝  I'm open to collaborating on Computational social science, NLP and Data analytics
 * 🌍  I'm based in Abuja, Nigeria
 * ✉  You can contact me at [abubakaraliyu599@gmail.com](mailto:abubakaraliyu599@gmail.com)
 * ⚡  Learning from cradle to grave!
