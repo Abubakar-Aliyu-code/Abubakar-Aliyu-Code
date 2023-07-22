@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer, Data Science Fellow-Arewa Data Science Academy
 -----------------------------------------------------------------
 
-I have a background in computer engineering and a narrow interest in harnessing Machine learning and Data science techniques for building predictive models for social good—policymaking and social justice—and productivity optimization.
+I have a solid background in computer engineering and a narrow interest in harnessing Machine learning and Data science techniques for building predictive models for social good—policymaking and social justice—and productivity optimization.
 
 * 🧠  I'm currently learning Time series and Reinforcement learning
 * 📝  I write on [medium](https://medium.com/@datathon) 
