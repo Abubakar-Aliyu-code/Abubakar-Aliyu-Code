@@ -8,8 +8,11 @@ I have a solid background in computer engineering and a narrow interest in harne
 
 * 🧠  I'm currently learning Time series and Reinforcement learning
 * 📝  I write descriptive blog post on Machine learning, Data science, Data Analytics, and Python:
-* [EXPLORING Q-LEARNING: A MODEL-FREE AND VALUE-BASED REINFORCEMENT LEARNING ALGORITHM](https://medium.com/@datathon/exploring-q-learning-a-model-free-and-value-based-reinforcement-learning-algorithm-8934e3d1ca1f) 
-* 🤝  I'm open to collaborating on Computational social science, NLP and Data analytics
+   * [Exploring Q-Learning: A Model-Free And Value-Based Reinforcement Learning Algorithm](https://medium.com/@datathon/exploring-q-learning-a-model-free-and-value-based-reinforcement-learning-algorithm-8934e3d1ca1f)
+   * [Sentiment Analysis: Understanding The Fundamental Concept](https://medium.com/@datathon/introduction-to-sentiment-analysis-c8cd6228313f)
+   * [“Introduction To Natural Language Processing”](https://medium.com/@datathon/introduction-to-natural-language-processing-1a71aa0be27)
+ 
+* 🤝  I'm open to collaborating on Computational social science, NLP and Data analytic
 * 🌍  I'm based in Abuja, Nigeria
 * ✉  You can contact me at [abubakaraliyu599@gmail.com](mailto:abubakaraliyu599@gmail.com)
 * ⚡  Learning from cradle to grave!
