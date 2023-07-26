@@ -12,7 +12,7 @@ I have a background in computer engineering with a narrow interest in harnessing
    * [Sentiment Analysis: Understanding The Fundamental Concept](https://medium.com/@datathon/introduction-to-sentiment-analysis-c8cd6228313f)
    * [Data Analytics 101: Choosing the Right Chart Type for Data Visualization](https://medium.com/@datathon/python-data-analytics-tools-choosing-the-right-chart-type-for-visualization-70c0233f8f24)
   
-* 🤝  I'm open to collaborating on NLP, Data mining and analytics, and Computational social science.
+* 🤝  I'm open to collaborating on NLP, Big Data, Data Mining and analytics, Prediction, and Computational Social Science.
 * 🌍  I'm based in Abuja, Nigeria
 * ✉  You can contact me at [abubakaraliyu599@gmail.com](mailto:abubakaraliyu599@gmail.com)
 * ⚡  Learning from cradle to grave!
