@@ -6,7 +6,7 @@ Computer Engineer, Technical Writer, Data Science Fellow-Arewa Data Science Acad
 
 I have a background in computer engineering with a narrow interest in harnessing Machine learning and Data science techniques for building models for optimizating productivity across industries, and for social good—policymaking and social justice.
 * 🧠  I'm currently learning Time series and Reinforcement learning
-* 📝  I write descriptive blog post on Machine learning, Data science, Data Analytics, and Python. A snippet👉:
+* 📝  I write descriptive blog post on Machine learning, Data science, Data Analytics, and Python. A snippet👉: 
    * [Exploring Q-Learning: A Model-Free And Value-Based Reinforcement Learning Algorithm](https://medium.com/@datathon/exploring-q-learning-a-model-free-and-value-based-reinforcement-learning-algorithm-8934e3d1ca1f)
    *  [Introduction to Natural Language Processing](https://medium.com/@datathon/introduction-to-natural-language-processing-1a71aa0be27)
    * [Sentiment Analysis: Understanding The Fundamental Concept](https://medium.com/@datathon/introduction-to-sentiment-analysis-c8cd6228313f)
