@@ -10,7 +10,7 @@ I have a background in computer engineering with a narrow interest in harnessing
    * [Exploring Q-Learning: A Model-Free And Value-Based Reinforcement Learning Algorithm](https://medium.com/@datathon/exploring-q-learning-a-model-free-and-value-based-reinforcement-learning-algorithm-8934e3d1ca1f)
    *  [Introduction to Natural Language Processing](https://medium.com/@datathon/introduction-to-natural-language-processing-1a71aa0be27)
    * [Sentiment Analysis: Understanding The Fundamental Concept](https://medium.com/@datathon/introduction-to-sentiment-analysis-c8cd6228313f)
-   *  * [Beginners' Guide to Building Unbiased Machine Learning Models](https://medium.com/@datathon/introduction-to-machine-learning-5704e747eaf2)
+   * [Beginners' Guide to Building Unbiased Machine Learning Models](https://medium.com/@datathon/introduction-to-machine-learning-5704e747eaf2)
    * [Data Analytics 101: Choosing the Right Chart Type for Data Visualization](https://medium.com/@datathon/python-data-analytics-tools-choosing-the-right-chart-type-for-visualization-70c0233f8f24)
   
 * 🤝  I'm open to collaborating on NLP, Generative AI, Big Data, Data Mining and analytics, and Computational Social Science.
