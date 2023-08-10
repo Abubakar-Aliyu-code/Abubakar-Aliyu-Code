@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer, Technical Writer, Data Science Fellow-Arewa Data Science Academy
 -----------------------------------------------------------------
 
-I have a background in computer engineering with a narrow interest in harnessing Machine learning and Data science techniques for building models for optimizating productivity across industries, and for social good—policymaking and social justice.
+I have a background in computer engineering with a narrow interest exploring Machine learning and Data science techniques for mining and processing unstructured data and  building large language models.
 * 🧠  I'm currently learning Time series and Reinforcement learning
 * 📝  I write descriptive blog post on Machine learning, Data science, Data Analytics, and Python. A snippet👉: 
    * [Exploring Q-Learning: A Model-Free And Value-Based Reinforcement Learning Algorithm](https://medium.com/@datathon/exploring-q-learning-a-model-free-and-value-based-reinforcement-learning-algorithm-8934e3d1ca1f)
