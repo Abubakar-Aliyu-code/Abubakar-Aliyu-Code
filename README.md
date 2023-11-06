@@ -13,7 +13,7 @@ I have a background in computer engineering with a narrow interest in exploring 
    * [Beginner's Guide to Building Unbiased Machine Learning Models](https://medium.com/@datathon/introduction-to-machine-learning-5704e747eaf2)
    * [Data Analytics 101: Choosing the Right Chart Type for Data Visualization](https://medium.com/@datathon/python-data-analytics-tools-choosing-the-right-chart-type-for-visualization-70c0233f8f24)
   
-* 🤝  I'm open to collaborating on NLP, Generative AI, Big Data, Data Mining and analytics, and Computational Social Science.
+* 🤝  I'm open to collaborating on Science writing, NLP, Generative AI, Big Data, Data Mining and analytics, and Computational Social Science.
 * 🌍  I'm based in Abuja, Nigeria
 * ✉  You can contact me at [abubakaraliyu599@gmail.com](mailto:abubakaraliyu599@gmail.com)
 * ⚡  Learning from cradle to grave!
