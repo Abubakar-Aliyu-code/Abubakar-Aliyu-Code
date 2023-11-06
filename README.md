@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abubakar Aliyu
 ======================================================================================================================================
 
-Computer Engineer, Technical Writer, Data Science Fellow-Arewa Data Science Academy
+Computer Engineer, Science Writer, Data Science Fellow-Arewa Data Science Academy
 -----------------------------------------------------------------
 
 I have a background in computer engineering with a narrow interest in exploring Machine learning and Data science techniques for building Large Language Models, and  mining and processing structured and unstructured Data.
