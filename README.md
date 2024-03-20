@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Science Writer & Data Scientist
 -----------------------------------------------------------------
 
-I have a background in computer engineering with a narrow interest in exploring Machine learning and Data science techniques for building Large Language Models, and  mining and processing structured and unstructured Data.
+I a computer engineering with a narrow interest in Data Engineering and Machine learning. I am interested in exploring techniques for building Large Language Models, and  mining and processing structured and unstructured big data.
 * 🧠  I'm currently learning Time series and Reinforcement learning
 * 📝  I write descriptive blog post on Machine learning, Data science, Data Analytics, and Python. A snippet👉: 
    * [Exploring Q-Learning: A Model-Free And Value-Based Reinforcement Learning Algorithm](https://medium.com/@datathon/exploring-q-learning-a-model-free-and-value-based-reinforcement-learning-algorithm-8934e3d1ca1f)
