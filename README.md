@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abubakar Aliyu
 ======================================================================================================================================
-
-Science Writer & Data Scientist
+Data Scientist
 -----------------------------------------------------------------
 
 I a computer engineering with a narrow interest in Data Engineering and Machine learning. I am exploring techniques for Generative Models, and  mining and processing structured and unstructured big data.
